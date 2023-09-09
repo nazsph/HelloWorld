@@ -8,6 +8,7 @@ import {Home} from '../app/Home'
         <View>
             <Text>
                 <Home/>
+                Naz Sipahi
             </Text>
         </View>
       </>
